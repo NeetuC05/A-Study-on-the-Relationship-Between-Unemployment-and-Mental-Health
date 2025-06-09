@@ -1,1 +1,3 @@
 # A-Study-on-the-Relationship-Between-Unemployment-and-Mental-Health
+
+This research explores the impact of unemployment on mental health, focusing on how joblessness contributes to psychological stress, anxiety, depression, and social isolation. Drawing on both global and Indian contexts, the study analyzes various socio-economic factors that influence the mental well-being of unemployed individuals. It incorporates statistical data, literature reviews, and psychological theories to demonstrate that prolonged unemployment significantly increases mental health issues. The project also emphasizes the need for government policies, mental health support systems, and employment programs to address this dual crisis of economic instability and psychological distress.
